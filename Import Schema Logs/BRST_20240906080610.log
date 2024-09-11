@@ -1,0 +1,88 @@
+9/6/2024 4:06:10 PM	This log contains information about the import schema operation into project 'BRST' on computer 'DESKTOP-64JB8AD' by user 'Ajax'.
+9/6/2024 4:06:11 PM	Import of database schema has started.
+9/6/2024 4:06:14 PM	Gathering database credentials
+9/6/2024 4:06:14 PM	Gathering database options
+9/6/2024 4:06:14 PM	Gathering generic database scoped configuration option
+9/6/2024 4:06:14 PM	Gathering users
+9/6/2024 4:06:14 PM	Gathering roles
+9/6/2024 4:06:14 PM	Gathering application roles
+9/6/2024 4:06:14 PM	Gathering role memberships
+9/6/2024 4:06:14 PM	Gathering filegroups
+9/6/2024 4:06:14 PM	Gathering full-text catalogs
+9/6/2024 4:06:14 PM	Gathering assemblies
+9/6/2024 4:06:14 PM	Gathering certificates
+9/6/2024 4:06:14 PM	Gathering asymmetric keys
+9/6/2024 4:06:14 PM	Gathering symmetric keys
+9/6/2024 4:06:14 PM	Gathering encrypted symmetric keys
+9/6/2024 4:06:14 PM	Gathering schemas
+9/6/2024 4:06:14 PM	Gathering XML schema collections
+9/6/2024 4:06:14 PM	Gathering user-defined data types
+9/6/2024 4:06:14 PM	Gathering user-defined types
+9/6/2024 4:06:14 PM	Gathering table types
+9/6/2024 4:06:14 PM	Gathering unique keys for table types
+9/6/2024 4:06:14 PM	Gathering primary keys for table types
+9/6/2024 4:06:14 PM	Gathering indexes for table types
+9/6/2024 4:06:14 PM	Gathering check constraints for table types
+9/6/2024 4:06:14 PM	Gathering default constraints for table types
+9/6/2024 4:06:14 PM	Gathering partition functions
+9/6/2024 4:06:14 PM	Gathering partition schemes
+9/6/2024 4:06:14 PM	Gathering functions
+9/6/2024 4:06:14 PM	Gathering encrypted functions
+9/6/2024 4:06:14 PM	Gathering aggregates
+9/6/2024 4:06:14 PM	Gathering procedures
+9/6/2024 4:06:14 PM	Gathering encrypted procedures
+9/6/2024 4:06:14 PM	Gathering tables
+9/6/2024 4:06:14 PM	Gathering primary keys
+9/6/2024 4:06:14 PM	Gathering unique constraints
+9/6/2024 4:06:14 PM	Gathering foreign keys
+9/6/2024 4:06:14 PM	Gathering default constraints
+9/6/2024 4:06:14 PM	Gathering check constraints
+9/6/2024 4:06:14 PM	Gathering views
+9/6/2024 4:06:14 PM	Gathering encrypted views
+9/6/2024 4:06:14 PM	Gathering indexes
+9/6/2024 4:06:14 PM	Gathering statistics
+9/6/2024 4:06:14 PM	Gathering full-text index stoplists
+9/6/2024 4:06:14 PM	Gathering search property lists
+9/6/2024 4:06:14 PM	Gathering search properties
+9/6/2024 4:06:14 PM	Gathering full-text indexes
+9/6/2024 4:06:14 PM	Gathering column store indexes
+9/6/2024 4:06:14 PM	Gathering spatial indexes
+9/6/2024 4:06:14 PM	Gathering XML indexes
+9/6/2024 4:06:14 PM	Gathering Selective XML indexes
+9/6/2024 4:06:14 PM	Gathering encrypted triggers
+9/6/2024 4:06:14 PM	Gathering triggers
+9/6/2024 4:06:14 PM	Gathering encrypted and clr ddl triggers
+9/6/2024 4:06:14 PM	Gathering ddl triggers
+9/6/2024 4:06:14 PM	Creating edge constraints
+9/6/2024 4:06:14 PM	Gathering synonyms
+9/6/2024 4:06:14 PM	Gathering defaults
+9/6/2024 4:06:14 PM	Gathering data constraint uddt bindings
+9/6/2024 4:06:14 PM	Gathering rules
+9/6/2024 4:06:14 PM	Gathering data constraint uddt bindings
+9/6/2024 4:06:14 PM	Gathering message types
+9/6/2024 4:06:14 PM	Gathering queues
+9/6/2024 4:06:14 PM	Gathering contracts
+9/6/2024 4:06:14 PM	Gathering services
+9/6/2024 4:06:14 PM	Gathering event notifications
+9/6/2024 4:06:14 PM	Gathering remote service bindings
+9/6/2024 4:06:14 PM	Gathering broker priorities
+9/6/2024 4:06:14 PM	Gathering signatures
+9/6/2024 4:06:14 PM	Gathering compression options
+9/6/2024 4:06:14 PM	Gathering sequence types
+9/6/2024 4:06:14 PM	Gathering security policies
+9/6/2024 4:06:14 PM	Gather column encryption keys
+9/6/2024 4:06:14 PM	Gathering column master keys
+9/6/2024 4:06:14 PM	Gathering external data sources
+9/6/2024 4:06:14 PM	Gathering external file formats
+9/6/2024 4:06:14 PM	Gathering external tables
+9/6/2024 4:06:14 PM	Gathering database permissions
+9/6/2024 4:06:14 PM	Gathering extended properties
+9/6/2024 4:06:14 PM	Gathering assemblies
+9/6/2024 4:06:14 PM	Gathering credentials
+9/6/2024 4:06:14 PM	Gathering logins
+9/6/2024 4:06:14 PM	Gathering server audits
+9/6/2024 4:06:14 PM	Scanning project for duplicate elements
+9/6/2024 4:06:15 PM	Finished duplicate element processing
+9/6/2024 4:06:15 PM	Finished importing database.
+9/6/2024 4:06:15 PM	A summary of the import was saved to the following location: C:\Users\Ajax\source\repos\BRST\Import Schema Logs\BRST_20240906080610.log
+9/6/2024 4:06:15 PM	Click Finish to continue...
