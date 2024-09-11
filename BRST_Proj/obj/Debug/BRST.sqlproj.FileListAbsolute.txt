@@ -1,0 +1,16 @@
+C:\Users\Ajax\source\repos\BRST\bin\Debug\BRST.dacpac
+C:\Users\Ajax\source\repos\BRST\bin\Debug\BRST.dll
+C:\Users\Ajax\source\repos\BRST\bin\Debug\BRST.pdb
+C:\Users\Ajax\source\repos\BRST\obj\Debug\BRST.sqlproj.AssemblyReference.cache
+C:\Users\Ajax\source\repos\BRST\obj\Debug\BRST.dll
+C:\Users\Ajax\source\repos\BRST\obj\Debug\BRST.pdb
+C:\Users\Ajax\source\repos\BRST\obj\Debug\Model.xml
+C:\Users\Ajax\source\repos\BRST\obj\Debug\refactor.xml
+C:\Users\Ajax\source\repos\BRST\obj\Debug\postdeploy.sql
+C:\Users\Ajax\source\repos\BRST\obj\Debug\predeploy.sql
+I:\BrainStation Challenge\BRST\bin\Debug\BRST.dacpac
+I:\BrainStation Challenge\BRST\bin\Debug\BRST.dll
+I:\BrainStation Challenge\BRST\bin\Debug\BRST.pdb
+I:\BrainStation Challenge\BRST\obj\Debug\BRST.sqlproj.AssemblyReference.cache
+I:\BrainStation Challenge\BRST\obj\Debug\BRST.dll
+I:\BrainStation Challenge\BRST\obj\Debug\BRST.pdb

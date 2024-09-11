@@ -1,0 +1,12 @@
+9/6/2024 4:09:41 PM	This log contains information about the import operation of the script 'country.sql' into project 'BRST' on computer 'DESKTOP-64JB8AD' by user'Ajax.
+9/6/2024 4:09:41 PM	Started importing file: I:\BrainStation Challenge\BSC\Database1\Tables\country.sql 
+9/6/2024 4:09:41 PM	File name I:\BrainStation Challenge\BSC\Database1\Tables\country.sql (size: 106)
+9/6/2024 4:09:41 PM	Parsing import script
+9/6/2024 4:09:41 PM	Total number of batches in script: 1
+9/6/2024 4:09:41 PM	Total number of statements in script: 1
+9/6/2024 4:09:41 PM	The script was successfully imported into the project.
+9/6/2024 4:09:41 PM	Analyzing schema objects...
+9/6/2024 4:09:41 PM	Scanning project for duplicate elements
+9/6/2024 4:09:41 PM	Finished duplicate element processing
+9/6/2024 4:09:41 PM	A summary of the import was saved to the following location: C:\Users\Ajax\source\repos\BRST\Import Script Logs\country_sql_20240906080941.log
+9/6/2024 4:09:41 PM	Click Finish to continue...
